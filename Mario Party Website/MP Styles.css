@@ -1,0 +1,129 @@
+/*Mario Party Title*/
+.container-lg{
+    padding: 0px;   
+
+}
+head {
+    font-family: Lucida Console;
+}
+body {
+    background: #F6EEEE;
+}
+#title {
+    font-size: 48px;
+    text-align: center;
+    color: white;
+    background-color: #DF4848;
+    border-style:groove;
+    border-width: 15px;
+    border-color: #204F91; 
+    padding: 15px;
+    margin: 10px;
+}
+#mplogo {
+    width: 40%;
+}
+#mplogo2 {
+    width: 70%;
+}
+/*Superstars image*/
+.container {
+    width: BW;
+}
+div {  
+    border: none;
+}  
+img{    
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+}  
+#centerimage {
+    background-size: contain;
+    justify-items: center;
+}
+/*NEW GAME! BUY NOW*/
+.buy {
+    text-align: center;
+    white-space: 10px;
+}
+/*EXPLORE*/
+#top {
+    color: white;
+    font-size: 40px;
+    background: #204F91;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+}
+.explore {
+    color: white;
+    font-size: 25px;
+    background: #204F91;
+    text-align: center;
+    padding-right: 0px;
+    margin-right: 0px;
+}
+.explorestuff {
+    color: white;
+    font-size: 22px;
+    background: #204F91;
+    text-indent: 0px;
+}
+.about {
+    background: #F6EEEE;
+    text-align: right;
+}
+.blue {
+    text-align: center;
+    font-size: 20px;
+    display: block;
+    padding: 4px;
+    background-color: #204F91;
+    color: white;
+}
+#numbers{
+    position: relative;
+    text-align: center;
+    font-size: 12px;
+    display: inline-block;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    padding: 12px 16px;
+    z-index: 1;
+}
+ul {
+    list-style-type: none;
+    margin: 20;
+    padding: 20;
+}
+li {
+    display: inline;
+    float: left;
+}
+li a:hover {
+  background-color: #111;
+}
+.abouttext{
+    text-align: center;
+    color: white;
+    background-color: #DF4848;
+    border-style:groove;
+    border-width: 10px;
+    border-color: #204F91; 
+    padding: 20px;
+    margin: 8px;
+    font-size: 22px;
+}
+h3 {
+    margin-right: 0px;
+    padding-right: 0px;
+}
+h5 {
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.mpnav {
+    border-color: red;
+}
