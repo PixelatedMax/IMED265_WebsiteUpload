@@ -41,6 +41,7 @@ img{
 #centerimage {
     background-size: contain;
     justify-items: center;
+    margin-bottom: 20px;
 }
 /*NEW GAME! BUY NOW*/
 .buy {
@@ -126,4 +127,7 @@ h5 {
 }
 .mpnav {
     border-color: red;
+}
+a:link {
+    text-decoration: none;
 }
